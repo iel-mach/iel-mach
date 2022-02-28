@@ -1,1 +1,1 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=iel-mach)](https://github.com/mohouyizme/1337-readme)
+[![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/iel-mach)](https://github.com/iel-mach/badge42)
