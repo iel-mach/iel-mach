@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-
-[![<iel-mach>'s 42 stats](https://badge.mediaplus.ma/darkblue/<iel-mach>)](https://github.com/iel-mach/badge42)
+[![iel-mach's 42 stats](https://badge.mediaplus.ma/greenbinary/iel-mach?1337Badge=off&42Network=off)](https://github.com/oakoudad/badge42)
